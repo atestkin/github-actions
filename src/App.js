@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> this is Mandeep and this is first branch.
+          Edit <code>src/App.js</code> this is Mandeep and this is second branch.
         </p>
         <a
           className="App-link"
