@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Comp1 from './Comp1';
 import './App.css';
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> this is Mandeep and this is second branch. I am learning git. this is crazy...wow
+          Edit <code>src/App.js</code> this is Mandeep and this is second branch. I am learning git. this is crazy. i am applying for jobs
         </p>
         <a
           className="App-link"
@@ -17,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <Comp1 />
       </header>
     </div>
   );
