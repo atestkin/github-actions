@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Comp1 from './Comp1';
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <Comp1 />
       </header>
     </div>
   );
