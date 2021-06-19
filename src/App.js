@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> this is Mandeep and this is second branch. I am learning git. this is crazy
+          Edit <code>src/App.js</code> this is Mandeep and this is second branch. I am learning git. this is crazy...wow
         </p>
         <a
           className="App-link"
